@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace HellishBattle.Ability 
+{
+    [CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Hellish Battle/Ability List/#SCRIPTNAME#", order = 48)]
+    public class #SCRIPTNAME# : BaseAbilityScript
+    {
+        // Opcjonalne Wartoœci
+
+        /// <summary>
+        /// #NAME#
+        /// </summary>
+        public override void ActivateAbility()
+        {
+            // Code
+            #NOTRIM#
+        }
+    }
+}

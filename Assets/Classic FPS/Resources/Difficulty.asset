@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 110b01d881490c540b578c0265fea4ab, type: 3}
+  m_Name: Difficulty
+  m_EditorClassIdentifier: 
+  localization: {fileID: 11400000, guid: 97b118f88a1d5f740a77dab7d94fc886, type: 2}
+  DifficultyList:
+  - Baby
+  - Normal
+  - Hard
+  - Nightmare
+  - Hell
+  DifficultySettingsList:
+  - key: difficulty_baby
+    damageMultiplier: 0.5
+    healthMultiplier: 0.75
+    speedMultiplier: 0.8
+    enemyAbility: 0
+    bossDamageMultiplier: 0.5
+    bossHealthMultiplier: 0.75
+    bossHpeedMultiplier: 0.8
+    lootDropChange: 1
+    areaDamageMultiplier: 0.5
+    _keyID: 0
+  - key: difficulty_normal
+    damageMultiplier: 1
+    healthMultiplier: 1
+    speedMultiplier: 1
+    enemyAbility: 1
+    bossDamageMultiplier: 1
+    bossHealthMultiplier: 1
+    bossHpeedMultiplier: 1
+    lootDropChange: 1
+    areaDamageMultiplier: 1
+    _keyID: 1
+  - key: difficulty_hard
+    damageMultiplier: 1.25
+    healthMultiplier: 1.15
+    speedMultiplier: 1
+    enemyAbility: 1
+    bossDamageMultiplier: 1.1
+    bossHealthMultiplier: 1.1
+    bossHpeedMultiplier: 1
+    lootDropChange: 1
+    areaDamageMultiplier: 1.25
+    _keyID: 2
+  - key: difficulty_nightmare
+    damageMultiplier: 1.5
+    healthMultiplier: 1.5
+    speedMultiplier: 1.2
+    enemyAbility: 1
+    bossDamageMultiplier: 1.4
+    bossHealthMultiplier: 1.4
+    bossHpeedMultiplier: 2
+    lootDropChange: 0.8
+    areaDamageMultiplier: 1.5
+    _keyID: 3
+  - key: difficulty_hell
+    damageMultiplier: 2
+    healthMultiplier: 2
+    speedMultiplier: 1.4
+    enemyAbility: 1
+    bossDamageMultiplier: 2
+    bossHealthMultiplier: 2
+    bossHpeedMultiplier: 2
+    lootDropChange: 0.4
+    areaDamageMultiplier: 2
+    _keyID: 4
+  DefualtDifficulty: 1
+  EditorScrollPosition: {x: 0, y: 0}

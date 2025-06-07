@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: Difficulty
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: difficulty_baby
+    englishText: I'm Baby
+    stringList:
+    - Jestem dzieckiem
+    - "soy un ni\xF1o"
+    - "\u042F \u0434\u0438\u0442\u0438\u043D\u0430"
+  - key: difficulty_normal
+    englishText: Normal
+    stringList:
+    - Normalny
+    - Normal
+    - "\u043D\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u0438\u0439"
+  - key: difficulty_hard
+    englishText: Hurt Me Plenty
+    stringList:
+    - "Zra\u0144 mnie, Prosze"
+    - "Hazme da\xF1o, por favor"
+    - "\u0417\u0440\u043E\u0431\u0456\u0442\u044C \u043C\u0435\u043D\u0456 \u0431\u0456\u043B\u044C,
+      \u0431\u0443\u0434\u044C \u043B\u0430\u0441\u043A\u0430"
+  - key: difficulty_nightmare
+    englishText: Nightmare
+    stringList:
+    - Koszmar
+    - Pesadilla
+    - "\u041A\u043E\u0448\u043C\u0430\u0440"
+  - key: difficulty_hell
+    englishText: Hell has begun
+    stringList:
+    - "Rozpocze\u0142o si\u0119 piek\u0142o"
+    - el infierno ha comenzado
+    - "\u041F\u0435\u043A\u043B\u043E \u043F\u043E\u0447\u0430\u043B\u043E\u0441\u044F"
+  keyOption:
+  - difficulty_baby
+  - difficulty_normal
+  - difficulty_hard
+  - difficulty_nightmare
+  - difficulty_hell

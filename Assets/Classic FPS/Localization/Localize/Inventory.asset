@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: Inventory
+    englishText: Inventory
+    stringList:
+    - Ekwipunek
+    - Equipamiento
+    - "\u041E\u0431\u043B\u0430\u0434\u043D\u0430\u043D\u043D\u044F"
+  - key: Primary Slot
+    englishText: Primary Slot
+    stringList:
+    - "G\u0142\xF3wny Slot"
+    - Ranura principal
+    - "\u041E\u0441\u043D\u043E\u0432\u043D\u0438\u0439 \u0441\u043B\u043E\u0442"
+  - key: Secoundary Slot
+    englishText: Secoundary Slot
+    stringList:
+    - Drugi Slot
+    - Segundo puesto
+    - "\u0414\u0440\u0443\u0433\u0438\u0439 \u0441\u043B\u043E\u0442"
+  - key: Melle Slot
+    englishText: Melle Slot
+    stringList:
+    - "Slot Broni Bia\u0142ej"
+    - Ranura White Arms
+    - "\u0421\u043B\u043E\u0442 \"\u0411\u0456\u043B\u0456 \u0440\u0443\u043A\u0438"
+  - key: Throwable Slot
+    englishText: Throwable Slot
+    stringList:
+    - Slot Broni Rzucanek
+    - Ranura para brazos arrojadizos
+    - "\u0421\u043B\u043E\u0442 \u0434\u043B\u044F \u043C\u0435\u0442\u0430\u043B\u044C\u043D\u043E\u0457
+      \u0437\u0431\u0440\u043E\u0457"
+  - key: Slot
+    englishText: Slot
+    stringList:
+    - Slot
+    - Ranura
+    - "\u0421\u043B\u043E\u0442"
+  - key: Equip
+    englishText: Equip
+    stringList:
+    - "Wyposa\u017C"
+    - Equipar
+    - "\u0415\u043A\u0456\u043F\u0456\u0440\u0443\u0432\u0430\u0442\u0438"
+  - key: Equipped
+    englishText: Equipped ( Slot {0} )
+    stringList:
+    - "Wyposa\u017Cone ( Slot {0} )"
+    - Equipado ( Ranura {0} )
+    - "\u041E\u0441\u043D\u0430\u0449\u0435\u043D\u043E ( Slot {0} )"
+  - key: Back to Inventory
+    englishText: Back to Inventory
+    stringList:
+    - "Wr\xF3c do Ekwipunku"
+    - Volver a Equipamiento
+    - "\u041F\u043E\u0432\u0435\u0440\u043D\u0443\u0442\u0438\u0441\u044F \u0434\u043E
+      \u043E\u0431\u043B\u0430\u0434\u043D\u0430\u043D\u043D\u044F"
+  - key: Close Inventory
+    englishText: Close Inventory
+    stringList:
+    - Zamknij Ekwipunek
+    - Cerrar el inventario
+    - "\u0417\u0430\u043A\u0440\u0438\u0439\u0442\u0435 \u0456\u043D\u0432\u0435\u043D\u0442\u0430\u0440"
+  - key: Damage
+    englishText: Damage
+    stringList:
+    - "Obra\u017Cenia"
+    - "Da\xF1os"
+    - "\u041F\u043E\u0448\u043A\u043E\u0434\u0436\u0435\u043D\u043D\u044F"
+  - key: Range
+    englishText: Range
+    stringList:
+    - "Zasi\u0119g"
+    - Gama
+    - "\u0414\u0456\u0430\u043F\u0430\u0437\u043E\u043D"
+  - key: Ammo
+    englishText: Ammo
+    stringList:
+    - Amunicja
+    - "Munici\xF3n"
+    - "\u0411\u043E\u0454\u043F\u0440\u0438\u043F\u0430\u0441\u0438."
+  - key: Firerate
+    englishText: Fire Rate
+    stringList:
+    - "Szybkostrzelno\u015B\u0107"
+    - Tasa de fuego
+    - "\u0428\u0432\u0438\u0434\u043A\u0456\u0441\u0442\u044C \u0432\u043E\u0433\u043D\u044E"
+  - key: Magazine
+    englishText: Magazine
+    stringList:
+    - Magazynek
+    - Revista
+    - "\u0416\u0443\u0440\u043D\u0430\u043B"
+  - key: Reload
+    englishText: Reload
+    stringList:
+    - "Prze\u0142adowanie"
+    - Recarga
+    - "\u041F\u0435\u0440\u0435\u0437\u0430\u0432\u0430\u043D\u0442\u0430\u0436\u0438\u0442\u0438"
+  - key: Alternative
+    englishText: Alternative Type
+    stringList:
+    - Tryb Alternatywny
+    - Tipo alternativo
+    - "\u0410\u043B\u044C\u0442\u0435\u0440\u043D\u0430\u0442\u0438\u0432\u043D\u0438\u0439
+      \u0442\u0438\u043F"
+  - key: Alt Damage
+    englishText: Alt Damage
+    stringList:
+    - "Obra\u017Cenia Alt"
+    - "Da\xF1os alternativos"
+    - "\u0410\u043B\u044C\u0442\u0435\u0440\u043D\u0430\u0442\u0438\u0432\u043D\u0438\u0439
+      \u0437\u0431\u0438\u0442\u043E\u043A"
+  - key: Alt Range
+    englishText: Alt Range
+    stringList:
+    - "Zasi\u0119g Alt"
+    - Gama alternativa
+    - "\u0410\u043B\u044C\u0442\u0435\u0440\u043D\u0430\u0442\u0438\u0432\u043D\u0438\u0439
+      \u0430\u0441\u043E\u0440\u0442\u0438\u043C\u0435\u043D\u0442"
+  - key: Block
+    englishText: Block Change
+    stringList:
+    - Szansa na blok
+    - Cambio de bloque
+    - "\u0417\u043C\u0456\u043D\u0430 \u0431\u043B\u043E\u043A\u0443"
+  keyOption:
+  - Inventory
+  - Primary Slot
+  - Secoundary Slot
+  - Melle Slot
+  - Throwable Slot
+  - Slot
+  - Equip
+  - Equipped
+  - Back to Inventory
+  - Close Inventory
+  - Damage
+  - Range
+  - Ammo
+  - Firerate
+  - Magazine
+  - Reload
+  - Alternative
+  - Alt Damage
+  - Alt Range
+  - Block

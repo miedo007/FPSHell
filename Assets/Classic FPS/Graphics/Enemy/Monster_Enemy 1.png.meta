@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: ece72ea5b1657ab4eb5b3a18196a3235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4670482003542762805
+    second: Monster_Enemy 1_0
+  - first:
+      213: -7636328720200314500
+    second: Monster_Enemy 1_1
+  - first:
+      213: 8980742819968783635
+    second: Monster_Enemy 1_2
+  - first:
+      213: 6571824795482739099
+    second: Monster_Enemy 1_3
+  - first:
+      213: -5874875269057609441
+    second: Monster_Enemy 1_4
+  - first:
+      213: 7792371893373261002
+    second: Monster_Enemy 1_5
+  - first:
+      213: -5840749015006830298
+    second: Monster_Enemy 1_6
+  - first:
+      213: 1090940827868980274
+    second: Monster_Enemy 1_7
+  - first:
+      213: 8342395024617561764
+    second: Monster_Enemy 1_8
+  - first:
+      213: -1265117671050993133
+    second: Monster_Enemy 1_9
+  - first:
+      213: 4687769571308697970
+    second: Monster_Enemy 1_10
+  - first:
+      213: 5990835082936049658
+    second: Monster_Enemy 1_11
+  - first:
+      213: -4644461867566613520
+    second: Monster_Enemy 1_12
+  - first:
+      213: 8020959163473498806
+    second: Monster_Enemy 1_13
+  - first:
+      213: -6327317169384363208
+    second: Monster_Enemy 1_14
+  - first:
+      213: 3248035844061253018
+    second: Monster_Enemy 1_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Enemy 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535650f03a2e0d040800000000000000
+      internalID: 4670482003542762805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 255
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d85cec7f460690800000000000000
+      internalID: -7636328720200314500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 255
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151163430202ac70800000000000000
+      internalID: 8980742819968783635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915adc15dfc33b50800000000000000
+      internalID: 6571824795482739099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 170
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110818b110487ea0800000000000000
+      internalID: -5874875269057609441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4504683f0142c60800000000000000
+      internalID: 7792371893373261002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212e4a67bd71fea0800000000000000
+      internalID: -5840749015006830298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234e91427ecc32f00800000000000000
+      internalID: 1090940827868980274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 85
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed052331426c370800000000000000
+      internalID: 8342395024617561764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312afe95e26617ee0800000000000000
+      internalID: -1265117671050993133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2797db6969d4e0140800000000000000
+      internalID: 4687769571308697970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Enemy 1_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd95264c8b32350800000000000000
+      internalID: 5990835082936049658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_Enemy 1_6: -5840749015006830298
+      Monster_Enemy 1_0: 4670482003542762805
+      Monster_Enemy 1_5: 7792371893373261002
+      Monster_Enemy 1_7: 1090940827868980274
+      Monster_Enemy 1_1: -7636328720200314500
+      Monster_Enemy 1_8: 8342395024617561764
+      Monster_Enemy 1_3: 6571824795482739099
+      Monster_Enemy 1_4: -5874875269057609441
+      Monster_Enemy 1_9: -1265117671050993133
+      Monster_Enemy 1_11: 5990835082936049658
+      Monster_Enemy 1_10: 4687769571308697970
+      Monster_Enemy 1_2: 8980742819968783635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

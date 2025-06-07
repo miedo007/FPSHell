@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: WeaponName
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: Melle - Axe
+    englishText: Axe
+    stringList:
+    - "Top\xF3r"
+    - Hacha
+    - "\u0441\u043E\u043A\u0438\u0440\u0430"
+  - key: Melle - Axe Desc
+    englishText: Good for slicing demons and other vegetables
+    stringList:
+    - "Dobre do krojenia demon\xF3w i innych warzyw"
+    - 
+    - 
+  - key: Melle - Knife
+    englishText: Hunting Knife
+    stringList:
+    - "N\xF3\u017C My\u015Bliwski"
+    - Cuchillo de caza
+    - "\u041C\u0438\u0441\u043B\u0438\u0432\u0441\u044C\u043A\u0438\u0439 \u043D\u0456\u0436"
+  - key: Melle - Knife Desc
+    englishText: Small but useful
+    stringList:
+    - "Ma\u0142y ale u\u017Cyteczny"
+    - 
+    - 
+  - key: Range - Bow
+    englishText: BD-P23
+    stringList:
+    - BD-P23
+    - BD-P23
+    - BD-P23
+  - key: Range - Bow Desc
+    englishText: 'Year of Production: 2049
+
+      Generation: 3
+
+      Production
+      Paused.'
+    stringList:
+    - 'Rok Produkcji: 2049
+
+      Generacja: 3
+
+      Produkcja Wstrzymana'
+    - 
+    - 
+  - key: Range - Burst Desc
+    englishText: Easy to use, you press and it shoots
+    stringList:
+    - "Proste u\u017Cytkowanie, wciskasz i strzela"
+    - 
+    - 
+  - key: Range - Burst Rifle
+    englishText: Python
+    stringList:
+    - Pyton
+    - "Pit\xF3n"
+    - Python
+  - key: Range - Charge Desc
+    englishText: It makes a Big Booom!
+    stringList:
+    - Robi Wielkie Booom!
+    - 
+    - 
+  - key: Range - Charge Gun
+    englishText: Ka-Boom 3000
+    stringList:
+    - Ka-Boom 3000
+    - Ka-Boom 3000
+    - Ka-Boom 3000
+  - key: Range - Double Barrel
+    englishText: DX-32a
+    stringList:
+    - DX-32a
+    - DX-32a
+    - DX-32a
+  - key: Range - DoubleBarrel Desc
+    englishText: Blood of the Fallen Angels is good fuel
+    stringList:
+    - "Krew Upad\u0142ych Anio\u0142\xF3w jest dobrym paliwem"
+    - 
+    - 
+  - key: Range - Dual Revolver
+    englishText: Dual Revolver
+    stringList:
+    - "Podw\xF3jny Rewolwer"
+    - "Rev\xF3lver doble"
+    - "\u041F\u043E\u0434\u0432\u0456\u0439\u043D\u0438\u0439 \u0440\u0435\u0432\u043E\u043B\u044C\u0432\u0435\u0440"
+  - key: Range - DualRevolver Desc
+    englishText: /// No Data ///
+    stringList:
+    - /// No Data ///
+    - /// No Data ///
+    - /// No Data ///
+  - key: Range - Grenade Launcher
+    englishText: RK 800
+    stringList:
+    - RK 800
+    - RK 800
+    - RK 800
+  - key: Range - GrenadeLancher Desc
+    englishText: The Great Grenade Punch
+    stringList:
+    - Wielka Pukawka na Granaty
+    - 
+    - 
+  - key: Range - Infinity Desc
+    englishText: No one knows where it gets its cartridges
+    stringList:
+    - "Nikt nie wie sk\u0105d to bierze naboje"
+    - 
+    - 
+  - key: Range - Infinity Pistol
+    englishText: Demon Pistol
+    stringList:
+    - Demoniczny Pistol
+    - "Pistola demon\xEDaca"
+    - "\u041F\u0456\u0441\u0442\u043E\u043B\u0435\u0442 \u0434\u0435\u043C\u043E\u043D\u0430"
+  - key: Range - Laser Desc
+    englishText: Good Classic Plasma Generator
+    stringList:
+    - Dobry Klasyczny Generator Plazmy
+    - 
+    - 
+  - key: Range - Laser Gun
+    englishText: B.O.B.
+    stringList:
+    - B.O.B.
+    - B.O.B.
+    - B.O.B.
+  - key: Range - Minigun Desc
+    englishText: What more is there to say...
+    stringList:
+    - "Co tu wi\u0119cej m\xF3wi\u0107..."
+    - 
+    - 
+  - key: Range - Pistol
+    englishText: HB27
+    stringList:
+    - HB27
+    - HB27
+    - HB27
+  - key: Range - Pistol Desc
+    englishText: The Basic Gun of Every Rectory
+    stringList:
+    - "Podstawowy Pistolet ka\u017Cdego rektura"
+    - 
+    - 
+  - key: Range - Rifle
+    englishText: HK - S28
+    stringList:
+    - HK - S28
+    - HK - S28
+    - HK - S28
+  - key: Range - Rifle Desc
+    englishText: HK - S28, is a rifle produced in 2043, developed for the purpose
+      of getting rid of demons from the earth
+    stringList:
+    - "HK - S28, jest to karabin wyprodukowany w 2043, opracowany na potrzebe pozbycia
+      si\u0119 demon\xF3w z ziemi"
+    - 
+    - 
+  - key: Range - Rocket Launcher
+    englishText: Red Death
+    stringList:
+    - "Czerwona \u015Amier\u0107"
+    - muerte roja
+    - "\u0427\u0435\u0440\u0432\u043E\u043D\u0430 \u0441\u043C\u0435\u0440\u0442\u044C"
+  - key: Range - RocketLancher Desc
+    englishText: Rockets are always a good weapon
+    stringList:
+    - "Rakiety zawsze s\u0105 dobr\u0105 broni\u0105"
+    - 
+    - 
+  - key: Range - Shotgun
+    englishText: Justice
+    stringList:
+    - Zemsta
+    - Justicia
+    - "\u0421\u043F\u0440\u0430\u0432\u0435\u0434\u043B\u0438\u0432\u0456\u0441\u0442\u044C"
+  - key: Range - Shotgun Desc
+    englishText: Maybe not accurate, but effective
+    stringList:
+    - "Mo\u017Ce nie celne, ale skuteczne"
+    - 
+    - 
+  - key: Range - Sniper
+    englishText: Eagle Eye
+    stringList:
+    - Sokole Oko
+    - "ojo de \xE1guila"
+    - "\u041E\u0440\u043B\u0438\u043D\u0435 \u043E\u043A\u043E"
+  - key: Range - Sniper Desc
+    englishText: Contracted by a Kennedy descendant
+    stringList:
+    - Skontruowana przez potomka Kennedy'ego
+    - 
+    - 
+  - key: Range Minigun
+    englishText: Minigun
+    stringList:
+    - Minigun
+    - Minigun
+    - Minigun
+  - key: Throwable - Grenade
+    englishText: Grenade
+    stringList:
+    - Granat
+    - Granada
+    - "\u0413\u0440\u0430\u043D\u0430\u0442\u0430"
+  - key: Throwable - Grenade Desc
+    englishText: Grenades are always cool
+    stringList:
+    - "Granaty zawsze s\u0105 spoko"
+    - 
+    - 
+  - key: Throwable - Knife
+    englishText: Kunai
+    stringList:
+    - Kunai
+    - Kunai
+    - Kunai
+  - key: Throwable - Kunai Desc
+    englishText: Where do I keep so many blades?
+    stringList:
+    - "Gdzie ja mam trzyma\u0107 tyle ostrzy?"
+    - 
+    - 
+  - key: Throwable - Molotov
+    englishText: Molotov
+    stringList:
+    - "Mo\u0142otow"
+    - Molotov
+    - Molotov
+  - key: Throwable - Molotov Desc
+    englishText: What an irony, to fight hell with fire
+    stringList:
+    - "Co za ironia, zwalcza\u0107 piek\u0142o ogniem"
+    - 
+    - 
+  keyOption:
+  - Melle - Axe
+  - Melle - Axe Desc
+  - Melle - Knife
+  - Melle - Knife Desc
+  - Range - Bow
+  - Range - Bow Desc
+  - Range - Burst Desc
+  - Range - Burst Rifle
+  - Range - Charge Desc
+  - Range - Charge Gun
+  - Range - Double Barrel
+  - Range - DoubleBarrel Desc
+  - Range - Dual Revolver
+  - Range - DualRevolver Desc
+  - Range - Grenade Launcher
+  - Range - GrenadeLancher Desc
+  - Range - Infinity Desc
+  - Range - Infinity Pistol
+  - Range - Laser Desc
+  - Range - Laser Gun
+  - Range - Minigun Desc
+  - Range - Pistol
+  - Range - Pistol Desc
+  - Range - Rifle
+  - Range - Rifle Desc
+  - Range - Rocket Launcher
+  - Range - RocketLancher Desc
+  - Range - Shotgun
+  - Range - Shotgun Desc
+  - Range - Sniper
+  - Range - Sniper Desc
+  - Range Minigun
+  - Throwable - Grenade
+  - Throwable - Grenade Desc
+  - Throwable - Knife
+  - Throwable - Kunai Desc
+  - Throwable - Molotov
+  - Throwable - Molotov Desc

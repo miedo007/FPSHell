@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: Base
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: enable
+    englishText: Enable
+    stringList:
+    - "W\u0142\u0105czone"
+    - Si
+    - "\u0423\u0432\u0456\u043C\u043A\u043D\u0443\u0442\u0438"
+  - key: disable
+    englishText: Disable
+    stringList:
+    - "Wy\u0142\u0105czone"
+    - No
+    - "\u0412\u0438\u043C\u043A\u043D\u0443\u0442\u0438"
+  keyOption:
+  - enable
+  - disable

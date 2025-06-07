@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: bdd0731742ade494185fc29198507e94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3000522838048889566
+    second: Dual_Revolver_Reload_0
+  - first:
+      213: -818031708705952798
+    second: Dual_Revolver_Reload_1
+  - first:
+      213: -2420127934235026200
+    second: Dual_Revolver_Reload_2
+  - first:
+      213: 6584394784950592313
+    second: Dual_Revolver_Reload_3
+  - first:
+      213: -1360861870669047503
+    second: Dual_Revolver_Reload_4
+  - first:
+      213: -7297254048954646755
+    second: Dual_Revolver_Reload_5
+  - first:
+      213: 7322599943742090253
+    second: Dual_Revolver_Reload_6
+  - first:
+      213: 5322022340456721883
+    second: Dual_Revolver_Reload_7
+  - first:
+      213: 1827972107153141435
+    second: Dual_Revolver_Reload_8
+  - first:
+      213: 1950359974810242368
+    second: Dual_Revolver_Reload_9
+  - first:
+      213: 6278901117837083132
+    second: Dual_Revolver_Reload_10
+  - first:
+      213: -5425250434922350065
+    second: Dual_Revolver_Reload_11
+  - first:
+      213: -4518559675225004527
+    second: Dual_Revolver_Reload_12
+  - first:
+      213: -4950419997104557332
+    second: Dual_Revolver_Reload_13
+  - first:
+      213: 1561513454435757398
+    second: Dual_Revolver_Reload_14
+  - first:
+      213: 4289079496775046124
+    second: Dual_Revolver_Reload_15
+  - first:
+      213: 6928862967858793432
+    second: Dual_Revolver_Reload_16
+  - first:
+      213: 1687706140869906249
+    second: Dual_Revolver_Reload_17
+  - first:
+      213: 1875763898192264325
+    second: Dual_Revolver_Reload_18
+  - first:
+      213: -1515475104309348473
+    second: Dual_Revolver_Reload_19
+  - first:
+      213: -2078793551002657871
+    second: Dual_Revolver_Reload_20
+  - first:
+      213: 7601833392463536449
+    second: Dual_Revolver_Reload_21
+  - first:
+      213: 9199308538850039713
+    second: Dual_Revolver_Reload_22
+  - first:
+      213: 5895904681664524739
+    second: Dual_Revolver_Reload_23
+  - first:
+      213: -3462705258362008748
+    second: Dual_Revolver_Reload_24
+  - first:
+      213: -7380647436508420918
+    second: Dual_Revolver_Reload_25
+  - first:
+      213: 4051388427340291964
+    second: Dual_Revolver_Reload_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22526a150600c56d0800000000000000
+      internalID: -3000522838048889566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1080
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb639bbe74c5a4f0800000000000000
+      internalID: -818031708705952798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1080
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecdbe8577af96ed0800000000000000
+      internalID: -2420127934235026200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332ae9db28706b50800000000000000
+      internalID: 6584394784950592313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 945
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139d56ab65f3d1de0800000000000000
+      internalID: -1360861870669047503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 945
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff640ea12faba90800000000000000
+      internalID: -7297254048954646755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cea0f1ad91f9560800000000000000
+      internalID: 7322599943742090253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 810
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddad911f1f9bd940800000000000000
+      internalID: 5322022340456721883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 810
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe6f2a42f24e5910800000000000000
+      internalID: 1827972107153141435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d44ba4012111b10800000000000000
+      internalID: 1950359974810242368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 675
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18b74bc43232750800000000000000
+      internalID: 6278901117837083132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 675
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a7be04973a5b4b0800000000000000
+      internalID: -5425250434922350065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1162fcd6ae9da41c0800000000000000
+      internalID: -4518559675225004527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 540
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b797bd339c4bb0800000000000000
+      internalID: -4950419997104557332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 540
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65de2aba63c9ba510800000000000000
+      internalID: 1561513454435757398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce310bae31fd58b30800000000000000
+      internalID: 4289079496775046124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 405
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db05989824482060800000000000000
+      internalID: 6928862967858793432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 405
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fcbc31bcfeb6710800000000000000
+      internalID: 1687706140869906249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7042c35d080a10800000000000000
+      internalID: 1875763898192264325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 270
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78771b50c63f7fae0800000000000000
+      internalID: -1515475104309348473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 270
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1d1f7744a623e0800000000000000
+      internalID: -2078793551002657871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ed77b1332f7960800000000000000
+      internalID: 7601833392463536449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 135
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7df5540628aaf70800000000000000
+      internalID: 9199308538850039713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 135
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13d24f11672d150800000000000000
+      internalID: 5895904681664524739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8479e9eff1ffc0800000000000000
+      internalID: -3462705258362008748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a486c24ca29990800000000000000
+      internalID: -7380647436508420918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dual_Revolver_Reload_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 315
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f1fba3f4c693830800000000000000
+      internalID: 4051388427340291964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff06e671028622a469c11453b735e219
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dual_Revolver_Reload_5: -7297254048954646755
+      Dual_Revolver_Reload_4: -1360861870669047503
+      Dual_Revolver_Reload_24: -3462705258362008748
+      Dual_Revolver_Reload_13: -4950419997104557332
+      Dual_Revolver_Reload_12: -4518559675225004527
+      Dual_Revolver_Reload_18: 1875763898192264325
+      Dual_Revolver_Reload_22: 9199308538850039713
+      Dual_Revolver_Reload_14: 1561513454435757398
+      Dual_Revolver_Reload_21: 7601833392463536449
+      Dual_Revolver_Reload_16: 6928862967858793432
+      Dual_Revolver_Reload_11: -5425250434922350065
+      Dual_Revolver_Reload_2: -2420127934235026200
+      Dual_Revolver_Reload_20: -2078793551002657871
+      Dual_Revolver_Reload_6: 7322599943742090253
+      Dual_Revolver_Reload_3: 6584394784950592313
+      Dual_Revolver_Reload_17: 1687706140869906249
+      Dual_Revolver_Reload_8: 1827972107153141435
+      Dual_Revolver_Reload_0: -3000522838048889566
+      Dual_Revolver_Reload_25: -7380647436508420918
+      Dual_Revolver_Reload_10: 6278901117837083132
+      Dual_Revolver_Reload_26: 4051388427340291964
+      Dual_Revolver_Reload_1: -818031708705952798
+      Dual_Revolver_Reload_15: 4289079496775046124
+      Dual_Revolver_Reload_9: 1950359974810242368
+      Dual_Revolver_Reload_23: 5895904681664524739
+      Dual_Revolver_Reload_7: 5322022340456721883
+      Dual_Revolver_Reload_19: -1515475104309348473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

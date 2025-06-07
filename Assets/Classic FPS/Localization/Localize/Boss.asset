@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: Boss
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: Ancient_Boss
+    englishText: Eyes of the World
+    stringList:
+    - "Oczy \u015Awiata"
+    - ojos del mundo
+    - "\u041E\u0447\u0456 \u0441\u0432\u0456\u0442\u0443"
+  - key: Base_Boss
+    englishText: Selkis
+    stringList:
+    - Selkis
+    - Selkis
+    - Selkis
+  - key: Multi_Phase_Boss
+    englishText: Doireann
+    stringList:
+    - Doireann
+    - Doireann
+    - Doireann
+  keyOption:
+  - Ancient_Boss
+  - Base_Boss
+  - Multi_Phase_Boss

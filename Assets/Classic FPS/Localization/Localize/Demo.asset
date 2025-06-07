@@ -1,0 +1,310 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: Demo
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: Destructible Object Name
+    englishText: Destructible Object
+    stringList:
+    - Obiekt do Zniszczenia
+    - "Objeto de destrucci\xF3n"
+    - "\u041E\u0431'\u0454\u043A\u0442 \u0434\u043E \u0437\u043D\u0438\u0449\u0435\u043D\u043D\u044F"
+  - key: Destructible Object Desc
+    englishText: Shoot the container to destroy it
+    stringList:
+    - "Strzelaj do pojemnika by go zniszczy\u0107"
+    - Dispara al contenedor para destruirlo
+    - "\u0421\u0442\u0440\u0456\u043B\u044F\u0439\u0442\u0435 \u043F\u043E \u043A\u043E\u043D\u0442\u0435\u0439\u043D\u0435\u0440\u0443,
+      \u0449\u043E\u0431 \u0437\u043D\u0438\u0449\u0438\u0442\u0438 \u0439\u043E\u0433\u043E"
+  - key: Interaction Door
+    englishText: Interaction Door
+    stringList:
+    - Interaktywne Drzwi
+    - Puerta interactiva
+    - "\u0406\u043D\u0442\u0435\u0440\u0430\u043A\u0442\u0438\u0432\u043D\u0456 \u0434\u0432\u0435\u0440\u0456"
+  - key: Interaction Door Desc
+    englishText: Click "E" to Open
+    stringList:
+    - "Kliknij \"E\" aby Otworzy\u0107"
+    - Haga clic en "E" para abrir
+    - "\u041D\u0430\u0442\u0438\u0441\u043D\u0456\u0442\u044C \"E\", \u0449\u043E\u0431
+      \u0432\u0456\u0434\u043A\u0440\u0438\u0442\u0438"
+  - key: Switch Door
+    englishText: Switch Door
+    stringList:
+    - "Drzwi na prze\u0142\u0105cznik"
+    - Puerta del interruptor
+    - "\u0414\u0432\u0435\u0440\u0456 \u043F\u0435\u0440\u0435\u043C\u0438\u043A\u0430\u0447\u0430"
+  - key: Switch Door Desc
+    englishText: Click "E" to toggle
+    stringList:
+    - "Kliknij \"E\" aby prze\u0142\u0105czy\u0107"
+    - Pulse "E" para cambiar
+    - "\u041D\u0430\u0442\u0438\u0441\u043D\u0456\u0442\u044C \u043F\u0435\u0440\u0435\u043C\u0438\u043A\u0430\u0447
+      \"E\""
+  - key: Key Door
+    englishText: Key Door
+    stringList:
+    - Drzwi na Klucz
+    - Puertas con llave
+    - "\u0414\u0432\u0435\u0440\u0456 \u0437 \u043A\u043B\u044E\u0447\u0435\u043C"
+  - key: Key Door Desc
+    englishText: You need a Key to open
+    stringList:
+    - "Potrzebujesz Klucza aby otworzy\u0107"
+    - Necesitas la Llave para abrir
+    - "\u0412\u0430\u043C \u043F\u043E\u0442\u0440\u0456\u0431\u0435\u043D \u043A\u043B\u044E\u0447,
+      \u0449\u043E\u0431 \u0432\u0456\u0434\u043A\u0440\u0438\u0442\u0438"
+  - key: Dialogue Name
+    englishText: Dialogue Example
+    stringList:
+    - "Przyk\u0142ad Dialogu"
+    - "Ejemplo de di\xE1logo"
+    - "\u041F\u0440\u0438\u043A\u043B\u0430\u0434 \u0434\u0456\u0430\u043B\u043E\u0433\u0443"
+  - key: Dialogue Desc
+    englishText: You need to install Meet and Talk to use Dialogs
+    stringList:
+    - "Musisz zainstalowac Meet and Talk, aby u\u017Cywa\u0107 Dialog\xF3w"
+    - "Necesitas instalar Meet and Talk para utilizar Di\xE1logos"
+    - "\u0429\u043E\u0431 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u0432\u0430\u0442\u0438
+      \u0434\u0456\u0430\u043B\u043E\u0433\u0438, \u0432\u0430\u043C \u043F\u043E\u0442\u0440\u0456\u0431\u043D\u043E
+      \u0432\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u0438 Meet and Talk"
+  - key: Boss Room
+    englishText: Boss Room
+    stringList:
+    - "Pok\xF3j z Bossem"
+    - Paz con el jefe
+    - "\u041C\u0438\u0440 \u0437 \u0431\u043E\u0441\u043E\u043C"
+  - key: Boss Room Desc
+    englishText: Boss
+    stringList:
+    - Boss
+    - Jefe
+    - "\u0411\u043E\u0441."
+  - key: Secrets
+    englishText: Secret
+    stringList:
+    - Sekret
+    - Secreto
+    - "\u0422\u0430\u0454\u043C\u043D\u0438\u0446\u044F"
+  - key: Secrets Desc
+    englishText: Break This wall
+    stringList:
+    - "Zniszcz t\u0105 \u015Bciane"
+    - Destruye este muro
+    - "\u0417\u0440\u0443\u0439\u043D\u0443\u0439\u0442\u0435 \u0446\u044E \u0441\u0442\u0456\u043D\u0443."
+  - key: Single Button
+    englishText: In-Game Button
+    stringList:
+    - Przycisk w grze
+    - 
+    - 
+  - key: Single Button Desc
+    englishText: Click Down and Up Event Invoke
+    stringList:
+    - "Wywo\u0142anie zdarzenia klikni\u0119cia w d\xF3\u0142 i w g\xF3r\u0119"
+    - 
+    - 
+  - key: Switch Family
+    englishText: Radio Buttons
+    stringList:
+    - Przyciski radiowe
+    - 
+    - 
+  - key: SwichFamily Switch1
+    englishText: Button Nr. 1
+    stringList:
+    - Przycisk nr 1
+    - 
+    - 
+  - key: SwichFamily Switch2
+    englishText: Button Nr. 2
+    stringList:
+    - Przycisk nr 2
+    - 
+    - 
+  - key: SwichFamily Switch3
+    englishText: Button Nr. 3
+    stringList:
+    - Przycisk nr 3
+    - 
+    - 
+  - key: Note
+    englishText: Demo Node
+    stringList:
+    - Demo Notatki
+    - 
+    - 
+  - key: Note Description
+    englishText: Read Me...
+    stringList:
+    - Przeczytaj Mnie
+    - 
+    - 
+  - key: Safe
+    englishText: Safe
+    stringList:
+    - Sejf
+    - 
+    - 
+  - key: Safe Description
+    englishText: Do You Know the Code?
+    stringList:
+    - Czy Znasz Kod?
+    - 
+    - 
+  - key: Keypad
+    englishText: Keypad
+    stringList:
+    - Klawiatura
+    - 
+    - 
+  - key: Keypad Description
+    englishText: "Jakie by\u0142o Has\u0142o?"
+    stringList:
+    - What was the Password?
+    - 
+    - 
+  - key: Teleport
+    englishText: Teleport
+    stringList:
+    - Teleport
+    - 
+    - 
+  - key: Teleport Description
+    englishText: ...
+    stringList:
+    - ...
+    - 
+    - 
+  - key: Safe Title
+    englishText: Safe Demo
+    stringList:
+    - Sejf Demo
+    - 
+    - 
+  - key: Safe 3 Slot 0-9 Desc
+    englishText: 3 Slot  | 0-9
+    stringList:
+    - 3 Gniazdo | 0-9
+    - 
+    - 
+  - key: Safe 3 Slot 0-99 Desc
+    englishText: 3 Slot  | 0-99
+    stringList:
+    - 3 Gniazdo | 0-99
+    - 
+    - 
+  - key: Safe 4 Slot 0-9 Desc
+    englishText: 4 Slot  | 0-9
+    stringList:
+    - 4 Gniazdo | 0-9
+    - 
+    - 
+  - key: Safe 4 Slot 0-99 Desc
+    englishText: 4 Slot  | 0-99
+    stringList:
+    - 4 Gniazdo | 0-99
+    - 
+    - 
+  - key: Safe Codes
+    englishText: Safe Codes
+    stringList:
+    - "Kody bezpiecze\u0144stwa"
+    - 
+    - 
+  - key: Safe Codes Desc
+    englishText: Safe Code List
+    stringList:
+    - "Lista bezpiecznych kod\xF3w"
+    - 
+    - 
+  - key: Lockpick
+    englishText: Lockpick
+    stringList:
+    - Lockpick
+    - 
+    - 
+  - key: Lockpick Very Easy
+    englishText: Very Easy
+    stringList:
+    - "Bardzo \u0142atwe"
+    - 
+    - 
+  - key: Lockpick Easy
+    englishText: Easy
+    stringList:
+    - "\u0141atwy"
+    - 
+    - 
+  - key: Lockpick Medium
+    englishText: Medium
+    stringList:
+    - "\u015Aredni"
+    - 
+    - 
+  - key: Lockpick Hard
+    englishText: Hard
+    stringList:
+    - trudne
+    - 
+    - 
+  - key: Lockpick Very Hard
+    englishText: Very Hard
+    stringList:
+    - Bardzo trudne
+    - 
+    - 
+  keyOption:
+  - Destructible Object Name
+  - Destructible Object Desc
+  - Interaction Door
+  - Interaction Door Desc
+  - Switch Door
+  - Switch Door Desc
+  - Key Door
+  - Key Door Desc
+  - Dialogue Name
+  - Dialogue Desc
+  - Boss Room
+  - Boss Room Desc
+  - Secrets
+  - Secrets Desc
+  - Single Button
+  - Single Button Desc
+  - Switch Family
+  - SwichFamily Switch1
+  - SwichFamily Switch2
+  - SwichFamily Switch3
+  - Note
+  - Note Description
+  - Safe
+  - Safe Description
+  - Keypad
+  - Keypad Description
+  - Teleport
+  - Teleport Description
+  - Safe Title
+  - Safe 3 Slot 0-9 Desc
+  - Safe 3 Slot 0-99 Desc
+  - Safe 4 Slot 0-9 Desc
+  - Safe 4 Slot 0-99 Desc
+  - Safe Codes
+  - Safe Codes Desc
+  - Lockpick
+  - Lockpick Very Easy
+  - Lockpick Easy
+  - Lockpick Medium
+  - Lockpick Hard
+  - Lockpick Very Hard

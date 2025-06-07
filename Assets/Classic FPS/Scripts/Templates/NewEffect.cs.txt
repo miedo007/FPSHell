@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace HellishBattle.Effects
+{
+    [CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Hellish Battle/Effect List/#SCRIPTNAME#", order = 24)]
+    public class #SCRIPTNAME# : StatusEffectData
+    {
+        /// <summary>
+        /// #NAME#
+        /// </summary>
+        public override List<string> GetValues()
+        {
+            List<string> values = new List<string>();
+            #NOTRIM#
+            return values;
+        }
+    }
+}

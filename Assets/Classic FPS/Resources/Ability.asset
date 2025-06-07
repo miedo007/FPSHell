@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94b9c8ff973f8ef4288f45ca204a1c8f, type: 3}
+  m_Name: Ability
+  m_EditorClassIdentifier: 
+  passiveAbilityList:
+  - UnlockedAtStart: 1
+    skill: {fileID: 11400000, guid: 9f46d25fabefe2a4f8585cf75bfdf961, type: 2}
+    price: 0
+  - UnlockedAtStart: 1
+    skill: {fileID: 11400000, guid: d1fbe00072add814a82f530f46673829, type: 2}
+    price: 0
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 56c2dd059d571da4c97b8bf3ee8b0ae0, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 8b70b9abfabbe06449f1e6789a9dfb5c, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 499478f0375ee3e41ba699b0d4338218, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: f19eb49c70d28134d9586c0cdb485ce9, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 8a73579b744f0284d8a08449ed8527a2, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 7aab6e76989459a4a956b3a81b355419, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 9e480fc7c231d6a4fbc19ef57e50e231, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 4899482bb292f7b418821e18ec5854e0, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 3470ba31f9037c6458478add2ff9ebef, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 552e4ea93bfe187498ecec7a86ac049f, type: 2}
+    price: 30
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 9d6f608fedf5bae4684db3aee4299cfd, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 2a1f2c852d186834bb4851dd3ee6fdd7, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 6614a2b62a7e10c44b2ada547d0bde80, type: 2}
+    price: 35
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: c15b531dcf661e34b9e14181678753a7, type: 2}
+    price: 60
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 7bc554f0c67dcb047b1c5a0d04c81246, type: 2}
+    price: 15
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: ac8cf80331c853b438f115925dfe79c9, type: 2}
+    price: 90
+  AbilityList:
+  - UnlockedAtStart: 1
+    skill: {fileID: 11400000, guid: d151017791fe8f64b8e8ba4dc794722b, type: 2}
+    price: 0
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: f34132f6cdd234347b457422ef2aeb80, type: 2}
+    price: 50
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 9acd84f6da2a328468a7741727209ab6, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 927c28f519f5d5b4580e4829ef7b5daa, type: 2}
+    price: 25
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 6ec1e59123f92d1489fabfa7ea89070b, type: 2}
+    price: 40
+  - UnlockedAtStart: 0
+    skill: {fileID: 11400000, guid: 30224dd84cfde3c498e64ff822bace53, type: 2}
+    price: 50

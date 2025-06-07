@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ea46d3882aef74590dff21d890a506, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 11400000, guid: 324dd5f409d96054f9e148fc1779fab5, type: 2}
+  wordList:
+  - key: Ancient Boss
+    englishText: Ancient
+    stringList:
+    - Pradawny
+    - Ancient
+    - Ancient
+  - key: Armor Boss
+    englishText: Armor Boss
+    stringList:
+    - Naznaczony
+    - Armor Boss
+    - Armor Boss
+  - key: Armor Boss Minion
+    englishText: Armor Boss Minion
+    stringList:
+    - Minion Naznaczonego
+    - Armor Boss Minion
+    - Armor Boss Minion
+  - key: Big Robot
+    englishText: GF-341
+    stringList:
+    - GF-341
+    - GF-341
+    - GF-341
+  - key: Dark Angel
+    englishText: Dark Angel
+    stringList:
+    - "Mroczny Anio\u0142"
+    - Dark Angel
+    - Dark Angel
+  - key: Dragon
+    englishText: Dragon
+    stringList:
+    - Smok
+    - Dragon
+    - Dragon
+  - key: Driving Robot
+    englishText: AD-23_2_1a
+    stringList:
+    - AD-23_2_1a
+    - AD-23_2_1a
+    - AD-23_2_1a
+  - key: Fallen Angel
+    englishText: Fallen Angel
+    stringList:
+    - "Upad\u0142y Anio\u0142"
+    - Fallen Angel
+    - Fallen Angel
+  - key: Ivy
+    englishText: Ivy
+    stringList:
+    - "\u017Bywy Bluszcz"
+    - Ivy
+    - Ivy
+  - key: Knight
+    englishText: Knight
+    stringList:
+    - Rycerz
+    - Knight
+    - Knight
+  - key: Lion
+    englishText: Lion
+    stringList:
+    - Lew
+    - Lion
+    - Lion
+  - key: Lizard
+    englishText: Lizard
+    stringList:
+    - Jaszczorka
+    - Lizard
+    - Lizard
+  - key: Magma Monster
+    englishText: Magma Monster
+    stringList:
+    - "Magmowy Potw\xF3r"
+    - Magma Monster
+    - Magma Monster
+  - key: Mech-X3
+    englishText: Mech-X3
+    stringList:
+    - Mech-X3
+    - Mech-X3
+    - Mech-X3
+  - key: Monster
+    englishText: Monster
+    stringList:
+    - "Potw\xF3r"
+    - Monster
+    - Monster
+  - key: Multi Phase
+    englishText: Multi Phase
+    stringList:
+    - "Po\u017Ceracz"
+    - Multi Phase
+    - Multi Phase
+  - key: Mummy
+    englishText: Mummy
+    stringList:
+    - Mumia
+    - Mummy
+    - Mummy
+  - key: Nameless Giant
+    englishText: Nameless Giant
+    stringList:
+    - Bezimienny
+    - Nameless Giant
+    - Nameless Giant
+  - key: Ork
+    englishText: Ork
+    stringList:
+    - Ork
+    - Ork
+    - Ork
+  - key: Robot
+    englishText: IDF-43
+    stringList:
+    - IDF-43
+    - IDF-43
+    - IDF-43
+  - key: TD-83
+    englishText: TD-83
+    stringList:
+    - TD-83
+    - TD-83
+    - TD-83
+  keyOption:
+  - Ancient Boss
+  - Armor Boss
+  - Armor Boss Minion
+  - Big Robot
+  - Dark Angel
+  - Dragon
+  - Driving Robot
+  - Fallen Angel
+  - Ivy
+  - Knight
+  - Lion
+  - Lizard
+  - Magma Monster
+  - Mech-X3
+  - Monster
+  - Multi Phase
+  - Mummy
+  - Nameless Giant
+  - Ork
+  - Robot
+  - TD-83
